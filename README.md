@@ -85,7 +85,7 @@ These metrics are stored and converted into pandas `DataFrame`s for plotting and
 
 * Shows how likely models are to change their answers based on the strength of latent pull.
 
-### (b) **Progressive vs. Regressive Share**
+### (b) **Progressive vs. Regressive Share $\widehat\pi_\pm$**
 
 * Shows whether sycophancy improves or worsens model accuracy under various $\gamma$ and $\sigma_S$.
 
