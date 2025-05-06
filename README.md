@@ -120,4 +120,4 @@ Each plot is accompanied by a table showing raw values of the metric for every m
 
 ---
 
-Would you like this explanation formatted into a LaTeX section for your paper?
+
